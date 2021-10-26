@@ -1,0 +1,1 @@
+You can use the `glow` markdown renderer directly in vim, thus replacing any markdown preview plugins that use html or pdf engines. However,as of `26.10.21` the `glow` utility does not support line breaks with double spaces which makes it effectively unusable. This has [apparently been worked on](https://github.com/charmbracelet/glow/issues/212). Let's wait and hope. 
