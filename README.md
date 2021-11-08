@@ -2,7 +2,7 @@ I started this TIL repository to improve my technical skills and also keep track
 
 What I have so far:
 
-[Custom Rss](Custom Rss.md)  
+[Custom Rss](./Custom Rss.md)  
 [Learn Regex with RegexPal](Learn Regex with RegexPal.md)  
 [Markdown Preview with Glow Vim](Markdown Preview with Glow Vim.md)  
 [Markdown to odt with pandoc and bibtex](Markdown to odt with pandoc and bibtex.md)  
