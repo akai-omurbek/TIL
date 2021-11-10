@@ -1,0 +1,1 @@
+Today I've learned that there is another option  to make your scripts more interactive besides `dmenu`- and that is `zenity`. I won't enumerate the possibilities here, you can read this [post](https://ostechnix.com/zenity-create-gui-dialog-boxes-in-bash-scripts/). The command is super intuitive and can be easily embedded into simple scripts. 
