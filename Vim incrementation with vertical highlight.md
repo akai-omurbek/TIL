@@ -4,7 +4,7 @@ In `vim` one can increment the numbers by pressing `ctrl+a` and `ctrl+x` . Today
 1                                   1
 1                                   2
 1                                   3
-1  ──────────────────────────────►  4
+1  ───────────►  		    4
 1                                   5
 1                                   6
 1                                   7
